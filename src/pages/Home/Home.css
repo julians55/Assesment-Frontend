@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 .productscard{
     display: flex;
     flex-shrink: initial;
-    
+    font-family: 'Ubuntu', sans-serif;
 }
 .prodtitle{
     color: #26798E;
@@ -9,4 +11,5 @@
     position: fixed;
     margin-left: 45%;
     margin-top: 90px;
+    font-family: 'Ubuntu', sans-serif;
 }

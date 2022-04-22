@@ -14,6 +14,8 @@ function About() {
       </p>
       <img className="aboutimage" src="https://scontent.fbog4-1.fna.fbcdn.net/v/t1.6435-9/130193752_2105190796278670_9173676660232428948_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGeAEJyJwmknvr6mAHXM4_jK17Zkso935krXtmSyj3fmbP3LuhDOi6QRnO6Ijzoxbo2Bu6WEhLU3O_aP7j0C0n8&_nc_ohc=SNYKXXsSFxsAX8A48wL&tn=mZeFEvHGK-xikuMB&_nc_ht=scontent.fbog4-1.fna&oh=00_AT-VKtmvVvO_rWtzZCfzdfEZnFEiumiMm8xdnmW2c1Cwkg&oe=6286616E" alt="" />
       <p>
+        THINGS I HAVE LEARNED:
+        <br />
         <li>
           MERN, I learned so much about the technologies that compose the MERN stack.
         </li>
@@ -25,7 +27,10 @@ function About() {
         </li>
       </p>
       <p>Email: jsalamancah@unal.edu.co</p>
-      <a href="https://github.com/julians55">GITHUB</a>
+      <a href="https://github.com/julians55">
+        Ir a Github! >
+      <img className="logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" href="https://github.com/julians55" />
+      </a>
     </div>
   );
 }

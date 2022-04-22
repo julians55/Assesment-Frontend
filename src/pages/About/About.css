@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 .aboutcontainer{
     margin-top: 90px;
     margin-left: 5%;
@@ -14,7 +15,6 @@
     width: 90%;
     height: 70%;
     box-shadow: 0 8px 15px darkgreen;
-
 }
 h1{
     align-self: center;
@@ -24,4 +24,14 @@ h1{
     border-radius: 25px;
     width: 300px;
     height: 300px;
+}
+
+.logo{
+    max-width: 25px;
+    max-height: 25px;
+    margin-bottom: 2%;
+}
+a{
+    margin-bottom: 2%;
+    font-weight: 700;
 }
