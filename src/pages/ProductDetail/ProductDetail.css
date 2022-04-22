@@ -1,0 +1,26 @@
+.productdetail{
+    font-weight: 700;
+    font-size: x-large;
+    margin-top: 90px;
+    margin-left: 5%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: brown;
+    background-color: #63CAA7;
+    box-shadow: 50px;
+    width: 90%;
+    height: 70%;
+    box-shadow: 0 8px 15px darkgreen;
+}
+.list{
+    list-style: none;
+}
+.imagecard{
+    height: 500px;
+    width: 500px;
+}
