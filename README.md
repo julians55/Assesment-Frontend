@@ -17,7 +17,7 @@ var es el primer tipo expresion para declarar variables, ya en su mayoria en des
 
 + git checkout -b rama-1
 + git branch rama-1 b
-+ 
++ git checkout -b rama-1 origin/rama-1
 
 # Explicar la diferencia entre git merge y git rebase.
 
