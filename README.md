@@ -30,3 +30,7 @@ Pull Request es una peticion para que se aprube agregar commits a un repositorio
 # ¿Qué es el Virtual DOM?
 
 Es un modelo o representacion grafica de la app para representar los estado o eventos por el navegador.
+
+# Dado el siguiente codePen, el cual solo tiene un HTML, por medio de css llegar a esta respuesta. Imagen. (Para mostrar los servicios debes usar CSS Flexbox o CSS Grid).
+
+Solucion: https://codepen.io/julian-steven-salamanca/pen/abExqmq
